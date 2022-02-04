@@ -9,6 +9,13 @@ body
     padding: 0;
 }
 
+#puppy {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
+
 #cabecera
 {
     background: #37488b;
