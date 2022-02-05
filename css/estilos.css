@@ -53,8 +53,11 @@ body
     width: 100%;
     padding: 5;
     text-align: center;
-    border: 2px solid rgb(9, 168, 76);
+    border: 2px solid rgb(168, 126, 9);
     margin: 0 auto;
+    background: #834b03;
+    color: antiquewhite;
+    
 }
 #container h1
 {
